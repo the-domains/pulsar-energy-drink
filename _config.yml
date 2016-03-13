@@ -1,14 +1,26 @@
-layout_spectrum: 0
-typography_spectrum: 0.1978896
 color:
   saturation: 0.907143
-  lightness: 0.49968
   brandStrength: 0.7254218
+  rhythmicContrast: 0.07199423
   brandColors:
     - '#000000'
     - '#FCFCFC'
     - '#A4A4A4'
     - '#393939'
     - '#666666'
-  rhythmicContrast: 0.07199423
+  lightness: 0.49968
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
+typography_spectrum: 0.1978896
 name: Pulsar Energy Drink
