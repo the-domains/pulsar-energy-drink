@@ -1,3 +1,4 @@
+typography_spectrum: 0.1978896
 color:
   saturation: 0.907143
   brandStrength: 0.7254218
@@ -9,6 +10,8 @@ color:
     - '#393939'
     - '#666666'
   lightness: 0.49968
+layout_spectrum: 0
+name: Pulsar Energy Drink
 collections:
   - index:
       path: /
@@ -21,6 +24,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0
-typography_spectrum: 0.1978896
-name: Pulsar Energy Drink
+title: Pulsar Energy Drink
